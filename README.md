@@ -1,2 +1,2 @@
 # ReactToDoList
-a simple To DO LIst built with React
+a simple To Do List built with React
